@@ -29,7 +29,7 @@ Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision<br>
 # 🤩 Fun fact:
 <br><br>I'm also a passionate artist a& a high-note singer!<br><br>🌟 Let's Connect and Innovate Together 🌟
 
-[Banner](./Ayesha.jpg)
+[!Banner](./Ayesha.jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khatoonintech) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayeshanoreen) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/KhatoonInTech) 
