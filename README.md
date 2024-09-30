@@ -5,7 +5,29 @@
 
 ## 😎 Who Am I?
 
-Ayesha Noreen, your friendly neighborhood tech enthusiast! <br>🫴🏻Call me: #KhatoonInTech<br>🎓: a 2nd year Computer Engineering Student @ Bahauddin Zakariya University, Multan, Pakistan<br>👩🏻‍💻My Identity: Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision<br><br><br>🫂 Associations & Affiliations:<br><br>🌱 Contributor @GSoC <br>💼 SWE Fellow @ Confiniti<br>🧠 ML/DL Fellow @ ByteWise<br>🌍 Campus Ambassador @ IMUN<br>🚀 SWE Fellow @HeadStarter AI <br><br>🔭   I'm looking to collaborate on:<br><br>Open-source machine learning and data science projects<br>Web development projects that leverage the latest technologies<br><br>🤔 I'm looking for help with:<br><br>Optimizing the performance and scalability of my web applications<br>Deploying my machine learning models to production environments<br><br>🌱 I'm currently learning:<br><br>Advanced techniques in natural language processing and generation<br>Efficient deployment strategies for cloud-based applications<br><br>💬 Ask me about:<br><br>Machine learning and deep learning<br>API integration and web development<br>Navigating the tech industry as a student<br><br>🤩 Fun fact:<br><br>I'm also a passionate artist a& a high-note singer!<br><br>🌟 Let's Connect and Innovate Together 🌟
+Ayesha Noreen, your friendly neighborhood tech enthusiast! <br>🫴🏻Call me: #KhatoonInTech<br>🎓: a 2nd year Computer Engineering Student @ Bahauddin Zakariya University, Multan, Pakistan<br>
+# 👩🏻‍💻My Identity:
+
+Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision<br><br><br>
+
+# 🫂 Associations & Affiliations:<br><br>
+
+🌱 Contributor @GSoC <br>💼 SWE Fellow @ Confiniti<br>🧠 ML/DL Fellow @ ByteWise<br>🌍 Campus Ambassador @ IMUN<br>🚀 SWE Fellow @HeadStarter AI <br><br>
+
+# 🔭   I'm looking to collaborate on:
+<br><br>Open-source machine learning and data science projects<br>Web development projects that leverage the latest technologies<br><br>
+
+# 🤔 I'm looking for help with:
+<br><br>Optimizing the performance and scalability of my web applications<br>Deploying my machine learning models to production environments<br><br>
+
+# 🌱 I'm currently learning:
+<br><br>Advanced techniques in natural language processing and generation<br>Efficient deployment strategies for cloud-based applications<br><br>
+
+# 💬 Ask me about:
+<br><br>Machine learning and deep learning<br>API integration and web development<br>Navigating the tech industry as a student<br><br>
+
+# 🤩 Fun fact:
+<br><br>I'm also a passionate artist a& a high-note singer!<br><br>🌟 Let's Connect and Innovate Together 🌟
 
 [Banner](./Ayesha.jpg)
 
@@ -23,7 +45,7 @@ Ayesha Noreen, your friendly neighborhood tech enthusiast! <br>🫴🏻Call me: 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khatoonintech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![]([https://github-readme-stats.vercel.app/api?username=khatoonintech&theme=radical&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=khatoonintech&theme=radical&hide_border=false&include_all_commits=true&count_private=true))<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khatoonintech&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khatoonintech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -41,7 +63,7 @@ Ayesha Noreen, your friendly neighborhood tech enthusiast! <br>🫴🏻Call me: 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KhatoonInTech) 
 
   
