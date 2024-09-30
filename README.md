@@ -13,6 +13,7 @@ Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision<br>
 # 🫂 Associations & Affiliations:<br><br>
 
 🌱 Contributor @GSoC <br>💼 SWE Fellow @ Confiniti<br>🧠 ML/DL Fellow @ ByteWise<br>🌍 Campus Ambassador @ IMUN<br>🚀 SWE Fellow @HeadStarter AI <br><br>
+![Banner](./Ayesha.jpg)
 
 # 🔭   I'm looking to collaborate on:
 <br><br>Open-source machine learning and data science projects<br>Web development projects that leverage the latest technologies<br><br>
@@ -29,7 +30,6 @@ Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision<br>
 # 🤩 Fun fact:
 <br><br>I'm also a passionate artist a& a high-note singer!<br><br>🌟 Let's Connect and Innovate Together 🌟
 
-![Banner](./Ayesha.jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khatoonintech) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayeshanoreen) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/KhatoonInTech) 
