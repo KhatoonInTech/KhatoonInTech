@@ -1,7 +1,6 @@
 
-# 🚀 Welcome to #KhatoonInTech's Treasure of Tech 🌟
+Greeting Everyone...!
 
----
 
 ## 😎 Who Am I?
 
@@ -13,7 +12,7 @@ Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision<br>
 # 🫂 Associations & Affiliations:<br><br>
 
 🌱 Contributor @GSoC <br>💼 SWE Fellow @ Confiniti<br>🧠 ML/DL Fellow @ ByteWise<br>🌍 Campus Ambassador @ IMUN<br>🚀 SWE Fellow @HeadStarter AI <br><br>
-![Banner](./Ayesha.jpg)
+![Banner](./Ayesha.png)
 
 # 🔭   I'm looking to collaborate on:
 <br><br>Open-source machine learning and data science projects<br>Web development projects that leverage the latest technologies<br><br>
