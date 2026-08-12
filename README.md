@@ -4,7 +4,7 @@ Greeting Everyone...!
 
 ## 😎 Who Am I?
 
-Ayesha Noreen, your friendly neighborhood tech enthusiast! <br>🫴🏻Call me: #KhatoonInTech<br>🎓: a 2nd year Computer Engineering Student @ Bahauddin Zakariya University, Multan, Pakistan<br>
+Ayesha Noreen, your friendly neighborhood tech enthusiast! <br>🫴🏻Call me: #KhatoonInTech<br>🎓: a final year Computer Engineering Student @ Bahauddin Zakariya University, Multan, Pakistan<br>
 # 👩🏻‍💻My Identity:
 
 Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision<br><br><br>
